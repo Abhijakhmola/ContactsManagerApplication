@@ -1,0 +1,3 @@
+2024-04-19 15:34:45.467 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-19 15:34:45.475 +05:30 [INF] Hosting environment: Development
+2024-04-19 15:34:45.476 +05:30 [INF] Content root path: C:\Users\abhis\Desktop\Asp.net_core\ContactsManagerSolution\ContactsManager.UI
