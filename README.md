@@ -17,10 +17,10 @@ Microsoft SQL Server: Integrates with MS SQL Server for reliable and scalable da
 Entity Framework Core: Leverages EF Core for seamless interaction with the database layer.
 
 Technologies Used
-ASP.NET Core MVC
-C#
-Entity Framework Core
-Microsoft SQL Server
-Serilog
-xUnit (for unit testing)
+ASP.NET Core MVC,
+C#,
+Entity Framework Core,
+Microsoft SQL Server,
+Serilog,
+xUnit (for unit testing),
 Integration Testing Framework (for integration testing)
